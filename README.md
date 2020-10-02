@@ -1,2 +1,2 @@
 # CodeChef
-My CodeChef challenges' solutions and explanations.
+My CodeChef challenges' solutions and explanations.✅
